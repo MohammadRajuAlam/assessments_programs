@@ -5,6 +5,6 @@ def pos_neg(num):
     elif num == 0:
         print(f"{num} is neither positive nor negative")
     else:
-        print(f"{num} is a Negative number")
+        print(f"{num} is  Negative no")
 num=int(input("Enter a number:"))
 pos_neg(num)
